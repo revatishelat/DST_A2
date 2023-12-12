@@ -15,7 +15,11 @@ Project group
 
 **Introduction** 
 
- Type up all in here, reference data, methodology
+ Type up all in here:
+* reference data
+* methodology & approach
+  
+
 
 **EDA and Preprocessing** 
 
@@ -34,14 +38,14 @@ Project group
 > refer to ____.file
 > and ___.file 
 
-**Comparison?** 
+
 
 > refer to ____.file 
 
 
 **Conculsion**
 Write up here 
-
+> refer to _comparison_.file
 
 
 
