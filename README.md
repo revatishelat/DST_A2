@@ -23,7 +23,7 @@ Project group
 
 **EDA and Preprocessing** 
 
-> refer to _____.file 
+> refer to 01_Preprocessing.ipynb 
 
 **BOW and Naive Bayes**
 
