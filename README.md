@@ -20,7 +20,9 @@ All the report content is in the `report/` directory. The report takes the follo
 * 05_RNN.ipynb
 * 06_Conclusion.ipynb
 
-There also some appendices to our report found in the `appendices/` folder.
+There also some appendices to our report found in the `appendices/` folder within this directory.
+
+The `BERT_embeddings` folder contains the hard-coded embeddings of the training and test data using the pre-trained DistilBERT and 'PubMed BERT expert' models.
 
 Any requirements are found in the import statements in various notebooks. We recommend using Google Colab for running the notebooks as it already has many of the required packages installed, and can use a GPU runtime for replicating our work the used a GPU.
 
