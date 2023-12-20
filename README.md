@@ -1,61 +1,32 @@
-This is the assessment 2 group project.
+# Assessment 2 - Using text processing techniques to classify medical abstracts
 
-**Classifying medical abstracts**
+## Project Group
 
-type exec summary here 
+- Abbie
+- Ethan
+- Geraint
+- Revati
 
-**Requirements** 
+We have an equal equity split between everyone.
 
-Project group
-> Abbie <br/>
-> Ethan <br/>
-> Geraint <br/>
-> Revati <br/>
-> This project has a 25/25/25/25 equity split
+## Reading order
 
-**Introduction** 
+All the report content is in the `report/` directory. The report takes the following structure:
 
- Type up all in here:
-* reference data
-* methodology & approach
-  
+* 01_Introduction_EDA_and_preprocessing.ipynb
+* 02_BagofWords.ipynb
+* 03_Word2Vec.ipynb
+* 04_BERT.ipynb
+* 05_RNN.ipynb
+* 06_Conclusion.ipynb
 
+There also some appendices to our report found in the `appendices/` folder.
 
-**EDA and Preprocessing** 
+Any requirements are found in the import statements in various notebooks. We recommend using Google Colab for running the notebooks as it already has many of the required packages installed, and can use a GPU runtime for replicating our work the used a GPU.
 
-> refer to 01_Preprocessing.ipynb 
+## Evidence
 
-**BOW and Naive Bayes**
+Our working is shown in our own named directories.
 
-> refer to _____.file 
-
-**Word2Vec and CNN**
-
->  refer to ____.file 
-
-**Bert**
-
-> refer to ____.file
-> and ___.file 
-
-**RNN**
-> refer to ____.file
-
-> refer to ____.file 
-
-
-**Conculsion**
-Write up here 
-> refer to _comparison_.file
-
-
-
-**References** 
-
-
-
-**Appendix** 
-
-> Additional files here
-
-
+We all conducted initial research of medical datasets at scale and text processing techniques.
+Geraint developed the preprocessing method and implemented various Bag of Words models; Abbie worked on Word2Vec approaches with a CNN classifier; Ethan worked on BERT models as well as some EDA to help inform the preprocessing; and Revati worked on RNNs and also did some research on BERTs.
