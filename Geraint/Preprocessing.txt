@@ -1,0 +1,13 @@
+Text Preprocessing:
+Requires cleaning text, stemming or lemmatizing and converting text to numerical representation (text embedding).
+
+Cleaning text:
+Remove stop words, special characters and punctuation.
+
+Stemming or Lemmatizing (Stemming faster, Lemmatizing more accurate):
+Snowball stemmer, Lancaster stemmer (more aggressive), WordNet lemmatizer, SPaCy lemmatizer (handles large documents efficiently)
+
+Text Embedding:
+Bag of Words model (Count vectorisation or TF-IDF), Word embeddings (Word2Vec), Document embeddings (Doc2Vec), Pre-trained models (BERT, GPT), LDA
+
+
