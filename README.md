@@ -17,7 +17,7 @@ All the report content is in the `report/` directory. The report takes the follo
 * 02_BagofWords.ipynb
 * 03_Word2Vec.ipynb
 * 04_BERT.ipynb
-* 05_RNN.ipynb
+* 05_LSTM.ipynb
 * 06_Conclusion.ipynb
 
 There also some appendices to our report found in the `appendices/` folder within this directory.
